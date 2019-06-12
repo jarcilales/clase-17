@@ -1,0 +1,23 @@
+{
+  "name": "clase-17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarcilales/clase-17.git"
+  },
+  "keywords": [],
+  "author": "Jose Arcila Aviles <jossarcavi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarcilales/clase-17/issues"
+  },
+  "homepage": "https://github.com/jarcilales/clase-17#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
