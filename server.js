@@ -1,6 +1,7 @@
-const express = require('express')
+import express from 'express'
+import authRouter from './auth'
 const app = express()
-const authRouter = require('./auth')
+
 //homeHandler es una funcion declarada de un forma especial
 const homeHandler = (request, response) => {
     response.send('Hello world')
